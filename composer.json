@@ -1,0 +1,10 @@
+{
+    "name": "weblu/book-shop",
+    "authors": [
+        {
+            "name": "Stanislav",
+            "email": "web.lumecent@gmail.com"
+        }
+    ],
+    "require": {}
+}
